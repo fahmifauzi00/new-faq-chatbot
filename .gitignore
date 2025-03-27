@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.streamlit/
+chroma_db_recent/
+data/
+venv/
+.devcontainer/
+.github/
+.vscode/
