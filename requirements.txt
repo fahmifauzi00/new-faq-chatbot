@@ -8,3 +8,5 @@ langchain-chroma
 langchain-core
 python-dotenv
 pypdf
+pysqlite3
+pysqlite3-binary
